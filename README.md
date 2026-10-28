@@ -3,7 +3,7 @@
 [class](https://viterbi-web.usc.edu/~jbarbic/cs420-s24/assign2/index.html)
 
 ### RESULT
-[Watch the video](/video.mp4)
+[Watch the video](https://github.com/user-attachments/assets/03858923-aa2e-4aeb-82cc-3fe6892e14b9)
 
 
 ![](/result1.png)
