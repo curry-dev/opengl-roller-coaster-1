@@ -4,6 +4,7 @@
 
 ### RESULT
 
+<video src="path/to/video.mp4" width="640" height="360" controls></video>
 ![](/result1.png)
 ![](/result2.png)
 
