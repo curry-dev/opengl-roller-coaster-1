@@ -4,7 +4,7 @@
 
 ### RESULT
 
-<video src="video.mp4" width="640" height="360" controls></video>
+https://github.com/user-attachments/assets/03858923-aa2e-4aeb-82cc-3fe6892e14b9
 ![](/result1.png)
 ![](/result2.png)
 
